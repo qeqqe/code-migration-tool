@@ -1,0 +1,22 @@
+{
+  "name": "@unowien/source",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {},
+  "private": true,
+  "devDependencies": {
+    "@nrwl/nest": "^19.8.4",
+    "@nx/js": "20.3.0",
+    "@nx/nest": "^20.3.0",
+    "@nx/next": "^20.3.0",
+    "@nx/react": "^20.3.0",
+    "@nx/webpack": "^20.3.0",
+    "@swc-node/register": "~1.9.1",
+    "@swc/core": "~1.5.7",
+    "@swc/helpers": "~0.5.11",
+    "nx": "20.3.0",
+    "prettier": "^2.6.2",
+    "tslib": "^2.3.0",
+    "typescript": "~5.6.2"
+  }
+}
